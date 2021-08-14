@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ripperz198
 - 👀 I’m interested in ... Computers
-- 🌱 I’m currently learning ... Nothing
+- 🌱 I’m currently learning ... Understanding the world
 - 💞️ I’m looking to collaborate on ... coding
 - 📫 How to reach me ...
 
